@@ -1,0 +1,2 @@
+[config]
+DOB_URL=https://data.cityofnewyork.us/resource/rvhx-8trz.json?job_type=PA
